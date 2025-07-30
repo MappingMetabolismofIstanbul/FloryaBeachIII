@@ -56,7 +56,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/N2PrxbbC/f31.png',
+            image: 'https://i.ibb.co/tMV3mg7z/f31.png',
             description: '',
             location: {
                 center: [28.785707050742555,40.972977585428],
@@ -86,7 +86,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/Vcs8pqGp/f32.png',
+            image: 'https://i.ibb.co/5gHzcX1f/f32.png',
             description: '',
             location: {
                 center: [28.785707050742555,40.972977585428],
@@ -116,7 +116,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/WN2nky0q/f33.png',
+            image: 'https://i.ibb.co/sd7PxWvc/f33.png',
             description: '',
             location: {
                 center: [28.785707050742555,40.972977585428],
