@@ -138,5 +138,32 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
+        {
+            id: '5',
+            alignment: 'centered',
+            hidden: false,
+            title: '',
+            image: 'https://i.ibb.co/0yWkxfys/f34.png',
+            description: '',
+            location: {
+                center: [28.785707050742555,40.972977585428],
+                zoom: 17,
+                pitch: 10,
+                bearing: -5,
+                speed: 1,
+                curve: 2
+                // flyTo additional controls-
+                // These options control the flight curve, making it move
+                // slowly and zoom out almost completely before starting
+                // to pan.
+                //speed: 2, // make the flying slow
+                //curve: 0, // change the speed at which it zooms out
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
     ]
 };
