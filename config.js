@@ -19,7 +19,7 @@ var config = {
     title: 'Florya Plaj Gazinosu / Municipal Casino',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     chapters: [
         {
             id: '1',
@@ -138,7 +138,7 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
-        {
+         {
             id: '5',
             alignment: 'centered',
             hidden: false,
@@ -147,7 +147,7 @@ var config = {
             description: '',
             location: {
                 center: [28.785707050742555,40.972977585428],
-                zoom: 17,
+                zoom: 18.2,
                 pitch: 10,
                 bearing: -5,
                 speed: 1,
@@ -160,7 +160,7 @@ var config = {
                 //curve: 0, // change the speed at which it zooms out
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
