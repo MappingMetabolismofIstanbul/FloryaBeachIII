@@ -119,10 +119,10 @@ var config = {
             image: 'https://i.ibb.co/sd7PxWvc/f33.png',
             description: '',
             location: {
-                center: [28.785707050742555,40.972977585428],
-                zoom: 17,
-                pitch: 10,
-                bearing: -5,
+                center: [28.78710752680721,40.97262605172918],
+                zoom: 18,
+                pitch: 0,
+                bearing: 0,
                 speed: 1,
                 curve: 2
                 // flyTo additional controls-
@@ -133,7 +133,7 @@ var config = {
                 //curve: 0, // change the speed at which it zooms out
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
